@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0072FF&width=600&lines=Hi%2C+I'm+Vijay+Baghel+👋;Java+Developer+%7C+Spring+Boot+%7C+REST+API;Full-Stack+Developer+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-<!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=fff&animation=fadeIn)
 
 ## 🚀 About Me
 👨‍💻 **Java Developer** with nearly **3 years of experience** in software design and development.  
