@@ -40,3 +40,10 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io)
+
+## 📜 Certificates & Achievements
+🏆 **Java SE 8 Programmer Certification** – Oracle  
+🏆 **Spring Boot Microservices** – Udemy  
+🏆 **Docker & Kubernetes Fundamentals** – Coursera  
+🏆 **Top Contributor** – Open Source Projects on GitHub  
+
