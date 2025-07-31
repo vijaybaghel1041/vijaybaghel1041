@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 <!-- Profile Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=fff&animation=fadeIn)
 
-<!-- Animated Developer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
 ## 🚀 About Me
 👨‍💻 **Java Developer** with nearly **3 years of experience** in software design and development.  
 💡 Proficient in **Design, Development and Integration** of applications across different domains.  
